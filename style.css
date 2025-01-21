@@ -27,6 +27,15 @@ header .date {
     color: #c8e6c9;
 }
 
+.pic {
+    width: 800px; 
+    height: auto; 
+    border: 5px solid #333; 
+    border-radius: 15px; 
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); 
+    
+}
+
 /* Main Content */
 main {
     padding: 20px;
